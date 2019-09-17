@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098159521987",
+    "firebase_url": "https://emd-app-7530b.firebaseio.com",
+    "project_id": "emd-app-7530b",
+    "storage_bucket": "emd-app-7530b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098159521987:android:82c1015b97922689",
+        "android_client_info": {
+          "package_name": "com.emd.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098159521987-0u2lncgf9v3angu9tmh6gi3l3ojpapd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8A2kcGW7E1lB1mx1kOx3s559POuJWQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098159521987-0u2lncgf9v3angu9tmh6gi3l3ojpapd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
